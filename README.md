@@ -1,4 +1,4 @@
 DEMO
 
-beautiful 
+beautiful (day)
 HI BYE
